@@ -16,10 +16,11 @@ h1 {
   font-weight: bold;
 }
 
-li {
-  list-style: none;
+.grid {
+  display: grid;
   font-size: 18px;
-  padding-top: 14px;
+  height: 180px;
+  align-items: end;
 }
 
 /* link color */
